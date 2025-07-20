@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Aarav Sharma",
+    "hobbies": ["cricket", "reading", "cycling"],
+    "visited_places": ["Delhi", "Agra", "Jaipur"],
+    "interested_food": ["butter chicken", "dal makhani", "naan"]
+  },
+  {
+    "name": "Priya Singh",
+    "hobbies": ["painting", "dancing", "yoga"],
+    "visited_places": ["Mumbai", "Goa", "Pune"],
+    "interested_food": ["vada pav", "pav bhaji", "bhel puri"]
+  },
+  {
+    "name": "Rahul Verma",
+    "hobbies": ["football", "gaming", "photography"],
+    "visited_places": ["Bangalore", "Mysore", "Ooty"],
+    "interested_food": ["masala dosa", "idli", "sambar"]
+  },
+  {
+    "name": "Sneha Patel",
+    "hobbies": ["singing", "gardening", "swimming"],
+    "visited_places": ["Ahmedabad", "Surat", "Vadodara"],
+    "interested_food": ["dhokla", "thepla", "khandvi"]
+  },
+  {
+    "name": "Vikram Reddy",
+    "hobbies": ["chess", "travelling", "blogging"],
+    "visited_places": ["Hyderabad", "Vizag", "Warangal"],
+    "interested_food": ["biryani", "mirchi ka salan", "double ka meetha"]
+  },
+  {
+    "name": "Ananya Joshi",
+    "hobbies": ["sketching", "badminton", "cooking"],
+    "visited_places": ["Pune", "Nashik", "Kolhapur"],
+    "interested_food": ["puran poli", "misal pav", "sabudana khichdi"]
+  },
+  {
+    "name": "Karan Mehta",
+    "hobbies": ["basketball", "reading", "music"],
+    "visited_places": ["Chandigarh", "Shimla", "Manali"],
+    "interested_food": ["chole bhature", "rajma chawal", "paneer tikka"]
+  },
+  {
+    "name": "Isha Gupta",
+    "hobbies": ["writing", "volleyball", "travelling"],
+    "visited_places": ["Lucknow", "Varanasi", "Kanpur"],
+    "interested_food": ["galouti kebab", "tunday kebab", "kachori"]
+  },
+  {
+    "name": "Rohan Das",
+    "hobbies": ["swimming", "cycling", "movies"],
+    "visited_places": ["Kolkata", "Darjeeling", "Sundarbans"],
+    "interested_food": ["rosogolla", "mishti doi", "fish curry"]
+  },
+  {
+    "name": "Meera Nair",
+    "hobbies": ["reading", "classical dance", "travelling"],
+    "visited_places": ["Kochi", "Thiruvananthapuram", "Munnar"],
+    "interested_food": ["appam", "puttu", "kerala sadya"]
+  }
+]
+

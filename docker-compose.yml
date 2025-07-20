@@ -1,0 +1,32 @@
+version: '3.8'
+services:
+  db:
+    image: ankane/pgvector:latest
+    environment:
+      POSTGRES_DB: buddy-chat-db
+      POSTGRES_USER: myuser
+      POSTGRES_PASSWORD: mypassword
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  app:
+    build: .
+    depends_on:
+      - db
+    environment:
+      DB_HOST: db
+      DB_PORT: 5432
+      DB_NAME: buddy-chat-db
+      DB_USER: myuser
+      DB_PASSWORD: mypassword
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/app
+    command: ["python", "app.py"]
+
+volumes:
+  pgdata:
+
