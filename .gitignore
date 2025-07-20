@@ -1,0 +1,33 @@
+# IDE files
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Log files
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other common files
+*.swp
+*.swo
+
+# Eclipse
+*.launch
+.metadata/
+
+# IntelliJ
+out/
+
+# Environment files
+.env
+
